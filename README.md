@@ -4,8 +4,8 @@
 
 
 ## Summary
-The push_swap project is a bespoke sorting algorithm written in C. It calculates and displaysthe 
-instructions used to sort the integers received as arguments, such as pushing, popping, swapping and rotating them between stack a and stack b. 
+The push_swap project is a bespoke sorting algorithm written in C. It calculates and displays the 
+instructions used to sort the integers received as arguments, such as pushing, popping, swapping and rotating them between stack a and stack b. Bonus part is a checker program which takes the displayed instructions, test them and display `OK` or `KO`
 Here is a table with all allowed intruction to do between both stacks.
 
 Code	| Instruction			| Action
